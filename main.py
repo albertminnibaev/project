@@ -1,2 +1,2 @@
 def ffff():
-    pass
+    return
