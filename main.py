@@ -1,2 +1,1 @@
-def ffff():
-    return
+"sfsfd" 
